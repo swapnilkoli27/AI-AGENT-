@@ -199,41 +199,7 @@ Clean layout
 Proper spacing & formatting
 
 
-Generated via reportlab.platypus.
-
-
----
-
-🧪 Troubleshooting
-
-❌ Groq key not set
-
-Check .env:
-
-GROQ_API_KEY=xxxx
-
-❌ CrewAI import error
-
-Set:
-
-USE_OFFICIAL_CREW=false
-
-Local agents will work automatically.
-
-❌ PDF not downloading
-
-Ensure reportlab installed:
-
-pip install reportlab
-
-
----
-
-🤝 Contributions
-
-PRs and issues are welcome!
-If you'd like new features (like saving history, CSV export, more agents), feel free to open a request.
-
+Generated via reportlab
 
 ---
 
