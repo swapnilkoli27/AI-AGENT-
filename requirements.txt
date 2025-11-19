@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+groq
+reportlab
+requests
+crewAI
+crewai-tools
+crewai-projects
